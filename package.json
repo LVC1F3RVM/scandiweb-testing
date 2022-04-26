@@ -40,5 +40,17 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVC1F3RVM/scandiweb-testing.git"
+  },
+  "author": "Zhukouski Aleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVC1F3RVM/scandiweb-testing/issues"
+  },
+  "homepage": "https://github.com/LVC1F3RVM/scandiweb-testing#readme"
 }
